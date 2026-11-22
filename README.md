@@ -1,8 +1,8 @@
 # TS Exercise 9: The Box–Jenkins Model (ARIMA)
 
-## Name: Boopathy S
+## Name: Balaji SK
 
-## Roll No: 2305003002
+## Roll No: 2305003001
 
 ## Department: AIML
 
